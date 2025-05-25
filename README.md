@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<div align="center">
-<!-- My snake -->
-<img src="https://github.com/khp9798/khp9798/blob/output/github-snake-dark.svg" width="100%">
 <!--
 **khp9798/khp9798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
