@@ -30,6 +30,29 @@
 
 ---
 
+### 🏆 Experience & Awards
+
+<div align="center">
+
+<table>
+  <tr>
+    <th align="left">기간</th>
+    <th align="left">세부 내역</th>
+  </tr>
+  <tr>
+    <td>SSAFY 12기<br>(2024.07 - 2025.06)</td>
+    <td>• 기업연계 프로젝트 3위<br>• 공통 프로젝트 우수<br>• 관통 프로젝트 최우수</td>
+  </tr>
+  <tr>
+    <td>충남대학교<br>(2018.03 - 2024.08)</td>
+    <td>• 언어학과<br>• 언어정보처리 복수전공</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khp9798)](https://github.com/anuraghazra/github-readme-stats)
