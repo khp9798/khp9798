@@ -63,6 +63,12 @@
 
 ---
 
+### 🏅 Problem Solving
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmn9798)](https://solved.ac/jmn9798/)
+
+---
+
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khp9798&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" />
