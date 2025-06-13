@@ -29,7 +29,7 @@
 
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![influxdb](https://img.shields.io/badge/influxdb-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
-![androidstudio](https://img.shields.io/badge/androids_tudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![androidstudio](https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ### 🛠 Workflow & Collaboration
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
