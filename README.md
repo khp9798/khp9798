@@ -4,6 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Kim+Hyeong+Pyo's+Github" alt="Typing SVG" /></a>
 
+---
+
+![커밋츄](https://www.comitchu.shop/api/chu/test/dmswldk28?background=flower.png&character=c.png)
 
 ---
   
